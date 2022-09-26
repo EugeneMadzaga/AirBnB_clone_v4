@@ -126,6 +126,16 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
+##0x06. AirBnB clone - Web dynamic
+*[0. Last clone!] - Update the repository name to AirBnB_clone_v4, add contruting author  
+*[1. Cash only] - Write a script that starts a Flask web application
+*[2. Select some Amenities to be comfortable!] - Replace the route 0-hbnb with 1-hbnb in the file 1-hbnb.py (based on 0-hbnb.py)
+*[3. API status] - Update the API entry point/ Change the route 1-hbnb to 2-hbnb in the file 2-hbnb.py/ Create a new template 2-hbnb.html (based on 1-hbnb.html/ Import the JavaScript static/scripts/2-hbnb.js
+*[4. Fetch places] - Replace the route 2-hbnb with 3-hbnb in the file 3-hbnb.py/ Create a new template 3-hbnb.html/ Write a JavaScript script (static/scripts/3-hbnb.js)
+*[5. Filter places by Amenity] - 
+*[Replace the route 3-hbnb with 4-hbnb in the file 4-hbnb.py] - Create a new template 4-hbnb.html/ mport the JavaScript static/scripts/4-hbnb.js in the <head> tag (instead of 3-hbnb.js)/ 
+*
+*
 
 ## Examples of use
 ```
@@ -156,6 +166,7 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Eugene Madzaga - [Github](https://github.com/EugeneMadzaga)
 
 Second part of Airbnb: Joann Vuong
 ## License
